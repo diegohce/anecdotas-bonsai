@@ -8,6 +8,7 @@ theme = "basics"
 #theme = "cactus-plus"
 #theme = "kiss"
 DisqusShortname = "anecdotas-bonsai"
+GoogleAnalytics = "UA-139979987-1"
 
 [params]
 	author = "Denat Idego"
