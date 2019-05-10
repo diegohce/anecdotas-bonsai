@@ -7,7 +7,7 @@ theme = "basics"
 #theme = "onepress"
 #theme = "cactus-plus"
 #theme = "kiss"
-DisqusShortname = ""
+DisqusShortname = "anecdotas-bonsai"
 
 [params]
 	author = "Denat Idego"
