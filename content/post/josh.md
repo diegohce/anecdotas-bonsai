@@ -1,7 +1,8 @@
 ---
 title: "Josh"
 date: 2019-05-09T20:04:06-03:00
-draft: true
+draft: false
+tags: [patagonia]
 ---
 Josh vivió en la Patagonia y una noche fue brutalmente atacado, sus restos aparecieron la mañana siguente, en el arroyo Desaguadero, un pequeño afluente del lago Futalaufquen.
 Dos extraños divisaron a Josh, o lo que quedaba de él, flotando en el agua helada. Sin que nadie lo viera, los dos extraños examinaron a Josh y lo sacaron del agua. Era una mañana soleada pero muy fría y ventosa.

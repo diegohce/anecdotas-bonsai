@@ -1,7 +1,8 @@
 ---
 title: " Calamuchita: Santa Fe, servilletas y medialunas calientes"
 date: 2019-05-09T20:31:25-03:00
-draft: true
+draft: false
+tags: [calamuchita]
 ---
 Mi viejo tiene una facilidad deslumbrante para hartar a la gente casi de inmediato. Si mal no recuerdo, la primera parada que hicimos, en el viaje a Calamuchita, fue en una estación de servicio YPF en la provincia de Santa Fe. Era de madrugda y faltaba bastante para que saliera el sol. Pedimos unos cafés y mientras elegíamos con qué acompañarlos, mi viejo suelta, amablemente un "para mi, calientes las medialunas ¿puede ser?", la empleada de la YPF le dice que recién sacó las medialunas del horno, que deberían estar calientes, mi viejo, como quien suelta una caricia dijo: "yo también pensé que estaban calientes, pero no". Con Dante nos miramos y giramos, a la vez, la cabeza para ver la cara de quien nos estaba atendiendo. La chica me miró muy fijo, con ojos enormes como el dos de oros diciéndome; "Las pongo a calentar, cuando estén listas, ¿las venís a buscar VOS por favor?". La pregunta sonó como una súplica, un ruego de ojos entrecerrados.
 

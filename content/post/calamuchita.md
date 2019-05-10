@@ -1,8 +1,8 @@
 ---
 title: "Calamuchita: kilómetro cero"
 date: 2019-05-05T00:56:22-03:00
-draft: true
-#tags: calamuchita
+draft: false
+tags: [calamuchita]
 ---
 Unas vacaciones de invierno y una decisión que todavía no sé porqué tomé. A dónde ir esas vacaciones era una incógnita absoluta hasta que mi viejo comentó que teníamos parientes en Santa Rosa de Calamuchita, provincia de Córdoba.
 Intercambiamos contactos y llamé a quien supuestamente es algo así como mi primo. Un extraño absoluto del que nunca había escuchado hablar. Arreglamos fechas para alquilar un departamento que él tiene en Calamuchita y listo, ya tenía dónde pasar una semana de las vacaciones de invierno con mi hijo.
