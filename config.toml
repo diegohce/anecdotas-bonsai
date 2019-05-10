@@ -1,0 +1,13 @@
+baseURL = "https://anecdotas-bonsai.netlify.com/"
+languageCode = "en-us"
+title = "Anécdotas Bonsai"
+#theme = "mediumish"
+#theme = "ananke"
+theme = "basics"
+#theme = "onepress"
+#theme = "cactus-plus"
+#theme = "kiss"
+DisqusShortname = ""
+
+[params]
+	author = "Denat Idego"
